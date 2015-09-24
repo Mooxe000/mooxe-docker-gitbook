@@ -1,2 +1,2 @@
-# mooxe-docker-node-web
-docker image for node-web application of mooxe
+# mooxe-docker-gitbook
+docker image for gitbook application of mooxe
